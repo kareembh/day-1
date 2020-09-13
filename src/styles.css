@@ -1,4 +1,10 @@
-h1 {
-  color: white;
-  background-color: black;
+.key-container{
+}
+.key{
+  display: inline;
+  flex-direction: row;
+  background-color: aqua;
+  border:1px solid black;
+  min-width: 50px;
+  min-height: 50px;
 }
